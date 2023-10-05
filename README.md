@@ -6,4 +6,4 @@
 make compile_run WEEK=1 NAME=cube_root
 ```
 
-- Homework answers are stored in `hw{WEEK_NUMBER}` folder and is hidden with gitignore :D
+- Homework answers are stored in `hw{WEEK_NUMBER}` folder and is hidden with gitignore
