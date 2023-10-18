@@ -56,3 +56,9 @@ Include `<math.h>` library for mathematical functions. Have to compile with `-Wa
 gcc -Wall -o kadai kadai.c -lm
 ```
 Useful functions include `pow`, `sqrt`, `cos`, `exp`, `log` and `fabs`.
+
+
+## Lecture 3
+
+### 再帰呼び出し (Recursion)
+No notes. No new stuff.
