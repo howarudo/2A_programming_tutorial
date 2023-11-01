@@ -98,3 +98,27 @@ int main() {
     swap(&n1, &n2);
 }
 ```
+
+## Lecture 5
+### Functions for files
+`fopen`: Open files
+
+`fputs`, `fprints`, `putc`: Write files
+
+`fgets, getc, fscanf`: Read from files
+
+`fclose`: Close files
+
+### fopen
+```C
+FILE * fp = NULL;
+//	memo.txtファイルを書き込み可能でオープン
+fp = fopen("memo.txt", "w");
+```
+Use `r` for read, `w` for write and `a` for append
+
+### Opening files by line/word
+`getc`, `putc` to get by word
+
+`fscanf`, `fprintf`, `fgets` to get by line
+
