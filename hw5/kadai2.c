@@ -1,5 +1,3 @@
-// 学籍番号： J4220368
-// 名前：タンクルンホワルド
 #include <stdio.h>
 
 int isAlphabet(char a);

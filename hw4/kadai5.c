@@ -1,7 +1,3 @@
-// 学籍番号： J4220368
-// 名前：タンクルンホワルド
-#include <stdio.h>
-#include <string.h>
 
 int roman2num(char*);
 // set an array to hold key and value of roman numerals
